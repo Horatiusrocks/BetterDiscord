@@ -1,8 +1,8 @@
 :root {
-	--accent-color: #2fda62;
-	--accent-hover: #36f770;
-	--accent-rgb: rgba(47,218,98,0.3);
-	--alt-accent: #5680d4;
+	--accent-color: #fcba03;
+	--accent-hover: #e0a500;
+	--accent-rgb: rgba(252, 186, 3,0.3);
+	--alt-accent: #fcba03;
 	--alert-color: #f04747;
 	--alert-hover: #ff4c4c;
 
@@ -29,7 +29,7 @@
 	--menu-border-color: #424242;
 	--menu-text-color: #b2b2b2;
 
-	--input-bg: #fff;
+	--input-bg: #171717;
 	--input-text-color: #222;
 	--input-placeholder-color: #444;
 	--select-input-color: #363636;
@@ -48,7 +48,7 @@
 
 ::selection {
 	background: rgba(47,218,98,0.5);
-	color: #fff !important;
+	color: #171717 !important;
 	text-shadow: none;
 }
 
@@ -444,7 +444,7 @@ a,
 	line-height: 44px;
 	border-radius: 50%;
 	border: 1px solid #fff;
-	color: #fff;
+	color: #171717;
 	font-size: 1em;
 }
 
@@ -489,7 +489,7 @@ a,
 }
 
 .guildsDiscoverInner-wC7iEN path {
-	fill: #fff !important;
+	fill: #171717F !important;
 }
 
 
